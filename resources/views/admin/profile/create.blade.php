@@ -8,7 +8,7 @@
         <title>mynews</title>
     </head>
     <body>
-        <h1>プロフィール作成画面</h1>
+        <h1>プロフィール作成</h1>
          {{-- layouts/profile.blade.phpを読み込む --}}
 @extends('layouts.profile')
 
